@@ -11,6 +11,21 @@ body {
 div {
   width: 100%;
   margin: 20px;
+  color: #333;
+}
+
+span {
+  display: flex;
+  align-items: center;
+}
+
+span button {
+  margin: 0;
+  margin-left: 15px;
+}
+
+ul {
+  margin-top: 15px;
 }
 
 div li {
